@@ -18,7 +18,7 @@ This repo contains the materials of our webinars in collaboration with the onlin
 - Build a retrieval augmented generation pipeline for querying data.
 - Build a question-answering bot that answers questions based on your documents.
 
-👉🏼 **[28/07/2023]** [Optimizing GPT Prompts for Data Science](https://www.datacamp.com/webinars/optimizing-gpt-prompts-for-data-science). In this live tutorial we see how to:
-- Learn the principles of good prompting engineering when using ChatGPT and the GPT API
-- Learn how to standardize and test the quality of your prompts at scale
-- Learn how to moderate AI responses to ensure quality
+👉🏼 **[28/07/2023]** [Optimizing GPT Prompts for Data Science](https://www.datacamp.com/webinars/optimizing-gpt-prompts-for-data-science). In this [live tutorial](https://www.youtube.com/watch?v=uGlRcnGtv50) we see how to:
+- Learn the principles of good prompting engineering when using ChatGPT and the GPT API.
+- Learn how to standardize and test the quality of your prompts at scale.
+- Learn how to moderate AI responses to ensure quality.
